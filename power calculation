@@ -362,3 +362,4 @@ assign leds = reg11_val[7:0];
 // If active-low LEDs:
 // assign leds = ~reg11_val[7:0];
 endmodule
+
